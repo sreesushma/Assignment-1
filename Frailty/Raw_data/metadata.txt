@@ -1,0 +1,7 @@
+About the columns in given Dataset:
+
+Height: Measured in inches.
+Weight: Measured in pounds.
+Age: Measured in years.
+Grip strength: Measured in kilograms.
+Frailty: Categorical (Y = frail, N = not frail).
