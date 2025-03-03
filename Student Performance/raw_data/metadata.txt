@@ -1,0 +1,45 @@
+Dataset Name: Student Performance Dataset
+
+Description:
+This dataset contains the performance scores of students in three subjects: math, reading, and writing. Additionally, it includes demographic and social factors such as gender, ethnicity, parental education level, lunch type, and whether the student completed a test preparation course.
+
+This dataset is valuable for analyzing how factors like gender, parental education, and test preparation impact student performance.
+
+
+
+Dataset Structure:
+
+- gender: Categorical  
+  - Student's gender: 'male' or 'female'. Represents the student's gender.
+
+- race/ethnicity: Categorical  
+  - Ethnicity group of the student.
+
+- parental level of education: Categorical  
+  - Highest level of education attained by the student's parents.
+
+- lunch: Categorical  
+  - Type of lunch: 'standard' or 'free/reduced'. Indicates whether the student receives a free or reduced-price lunch.
+
+- test preparation course: Categorical  
+  - Whether the student completed a test preparation course: 'completed' or 'none'.
+
+- math score: Numerical (0-100)  
+  - The student's score in math.
+
+- reading score: Numerical (0-100)  
+  - The student's score in reading.
+
+- writing score: Numerical (0-100)  
+  - The student's score in writing.
+
+
+
+Important Notes:
+
+1. Gender Encoding: In the dataset, 'male' is represented as 0 and 'female' as 1.
+2. Numerical Scores: The math, reading, and writing scores are numeric and are on a scale from 0 to 100.
+
+
+
+

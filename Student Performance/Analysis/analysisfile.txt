@@ -1,0 +1,5 @@
+Insight 1: Females outperform males in reading and writing, while males slightly outperform females in math.
+Insight 2: Higher parental education levels are associated with higher student scores across all subjects.
+Insight 3: Students with standard lunch types score higher on average compared to those with free/reduced lunch.
+Insight 4: Students who completed the test preparation course scored higher across all subjects.
+Insight 5: There are observable differences in average scores among different ethnicity groups, indicating potential cultural or socioeconomic factors influencing performance.
